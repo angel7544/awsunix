@@ -1,0 +1,442 @@
+[sudo] password for angel: 
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822003' created with password '4APbx'
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822010' created with password 'KkdtG'
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822007' created with password 'abdLg'
+useradd: user 'A45304822007' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822007' created with password 'cAVF9'
+useradd: user 'A45304822010' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822010' created with password 'UaVWq'
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'I7QF7'
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822006' created with password 'rzkYL'
+useradd: user 'A45304822003' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822003' created with password 'oaC8t'
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'DnOJm'
+useradd: user 'A45304822010' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822010' created with password 'tZvQ6'
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822002' created with password 'N8P6g'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password '0dHju'
+useradd: user 'A45304822005' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'xrJAH'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'qnQ85'
+useradd: user 'A45304822005' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'DXe2Y'
+useradd: user 'A45304822005' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'ZaQHX'
+useradd: user 'A45304822002' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822002' created with password 'rNcFQ'
+useradd: user 'A45304822006' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822006' created with password 'CTt5V'
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822008' created with password 'FzZ87'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'ohePs'
+useradd: user 'A45304822010' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822010' created with password 'Luh7P'
+useradd: user 'A45304822010' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822010' created with password 'CnGWB'
+useradd: user 'A45304822008' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822008' created with password 'WtWLO'
+useradd: user 'A45304822005' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'MF25Z'
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822001' created with password 'b9Br4'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password '8axDX'
+useradd: user 'A45304822006' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822006' created with password 'TArYp'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'w8DU7'
+useradd: user 'A45304822001' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822001' created with password 'YlF7P'
+useradd: user 'A45304822010' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822010' created with password '0Dzql'
+useradd: user 'A45304822010' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822010' created with password 'qV4zz'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'JG5Sh'
+useradd: user 'A45304822006' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822006' created with password 'Lrk2X'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'aYEB1'
+useradd: user 'A45304822006' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822006' created with password 'RaFJb'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'X9aGq'
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822004' created with password 'eTpCR'
+useradd: user 'A45304822006' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822006' created with password 'vme4w'
+useradd: user 'A45304822002' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822002' created with password '5S3yS'
+useradd: user 'A45304822007' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822007' created with password 'eh9yr'
+useradd: user 'A45304822006' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822006' created with password '6bmK5'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'z2Iby'
+useradd: user 'A45304822003' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822003' created with password 'atjsg'
+useradd: user 'A45304822006' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822006' created with password 'HcjS0'
+useradd: user 'A45304822007' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822007' created with password 'DmiF0'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'QsFjI'
+useradd: user 'A45304822002' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822002' created with password 'Nx22y'
+useradd: user 'A45304822002' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822002' created with password 'NredX'
+useradd: user 'A45304822002' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822002' created with password '6Nx18'
+useradd: user 'A45304822002' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822002' created with password 'AKcTR'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'mdBHp'
+useradd: user 'A45304822007' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822007' created with password 'CLALJ'
+useradd: user 'A45304822001' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822001' created with password 'fHF3J'
+useradd: user 'A45304822005' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'VlnZg'
+useradd: user 'A45304822004' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822004' created with password 'wi199'
+useradd: user 'A45304822006' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822006' created with password 'f2ZOx'
+useradd: user 'A45304822001' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822001' created with password 'l0iXb'
+useradd: user 'A45304822005' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'eK7if'
+useradd: user 'A45304822007' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822007' created with password 'p4lWT'
+useradd: user 'A45304822002' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822002' created with password 'rDzya'
+useradd: user 'A45304822007' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822007' created with password 'bCJbo'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'tkCBd'
+useradd: user 'A45304822004' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822004' created with password 'Iuhft'
+useradd: user 'A45304822001' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822001' created with password '1ZNRQ'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password '5tgCM'
+useradd: user 'A45304822008' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822008' created with password 'JG00p'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'WE2CI'
+useradd: user 'A45304822008' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822008' created with password 'LjSmA'
+useradd: user 'A45304822007' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822007' created with password '6Nf0P'
+useradd: user 'A45304822010' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822010' created with password 'Oefsi'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'iHHhr'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'QN0DK'
+useradd: user 'A45304822005' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'IxYfU'
+useradd: user 'A45304822007' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822007' created with password 'SZvyw'
+useradd: user 'A45304822004' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822004' created with password '6lqHM'
+useradd: user 'A45304822002' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822002' created with password '4VNgg'
+useradd: user 'A45304822008' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822008' created with password 'UEvwi'
+useradd: user 'A45304822008' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822008' created with password 'rlYBz'
+useradd: user 'A45304822003' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822003' created with password 'vwpJJ'
+useradd: user 'A45304822003' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822003' created with password 'ZEAH8'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'y3X97'
+useradd: user 'A45304822005' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'aZfcQ'
+useradd: user 'A45304822004' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822004' created with password 'udnSU'
+useradd: user 'A45304822005' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'iIZcs'
+useradd: user 'A45304822001' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822001' created with password '2umIV'
+useradd: user 'A45304822003' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822003' created with password 'A4IDQ'
+useradd: user 'A45304822008' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822008' created with password 'HxDKI'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password '6hkmw'
+useradd: user 'A45304822001' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822001' created with password 'l5iEU'
+useradd: user 'A45304822004' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822004' created with password 'lumam'
+useradd: user 'A45304822005' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'GnXkk'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'PSPIq'
+useradd: user 'A45304822002' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822002' created with password 'P9S7H'
+useradd: user 'A45304822004' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822004' created with password 'cShbq'
+useradd: user 'A45304822007' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822007' created with password 'BARJo'
+useradd: user 'A45304822004' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822004' created with password 'x5geR'
+useradd: user 'A45304822002' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822002' created with password 'fwuGb'
+useradd: user 'A45304822005' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'P6MmT'
+useradd: user 'A45304822001' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822001' created with password 'GEB16'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'puAFT'
+useradd: user 'A45304822005' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'pbBDB'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'bSRtv'
+useradd: user 'A45304822008' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822008' created with password '8iZ32'
+useradd: user 'A45304822004' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822004' created with password 'fLNNL'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'f2xa6'
+useradd: user 'A45304822004' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822004' created with password 'HDBI5'
+useradd: user 'A45304822005' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'McbIA'
+useradd: user 'A45304822001' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822001' created with password 'o6GT1'
+useradd: user 'A45304822010' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822010' created with password 'gEO3d'
+useradd: user 'A45304822001' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822001' created with password 'c8ChU'
+useradd: user 'A45304822007' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822007' created with password 'qMmjN'
+useradd: user 'A45304822001' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822001' created with password '5xtE3'
+useradd: user 'A45304822005' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'Z448G'
+useradd: user 'A45304822003' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822003' created with password '8NAaI'
+useradd: user 'A45304822010' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822010' created with password 'qyD76'
+useradd: user 'A45304822008' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822008' created with password 'UkVg8'
+useradd: user 'A45304822007' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822007' created with password 'YMP3t'
+useradd: user 'A45304822003' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822003' created with password 'zwjdk'
+useradd: user 'A45304822008' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822008' created with password 'jESg7'
+useradd: user 'A45304822003' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822003' created with password 'S2tU0'
+useradd: user 'A45304822010' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822010' created with password 'BHt1C'
+useradd: user 'A45304822001' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822001' created with password 'pu2Lk'
+useradd: user 'A45304822007' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822007' created with password 'pa8s4'
+useradd: user 'A45304822005' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'spz50'
+useradd: user 'A45304822009' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822009' created with password 'n56rP'
+useradd: user 'A45304822005' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'ij6as'
+useradd: user 'A45304822005' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'Kj5ha'
+useradd: user 'A45304822008' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822008' created with password 'nloig'
+useradd: user 'A45304822010' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822010' created with password 'EIaE3'
+useradd: user 'A45304822004' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822004' created with password '7Ioek'
+useradd: user 'A45304822005' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'yQ2NM'
+useradd: user 'A45304822006' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822006' created with password 'GgPEs'
+useradd: user 'A45304822006' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822006' created with password 'hAofx'
+useradd: user 'A45304822005' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822005' created with password 'gqeZ3'
+useradd: user 'A45304822007' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822007' created with password 'RGobU'
+useradd: user 'A45304822001' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822001' created with password 'VBANE'
+useradd: user 'A45304822002' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822002' created with password 'GDBrc'
+useradd: user 'A45304822010' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822010' created with password 'nPoeG'
+useradd: user 'A45304822001' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822001' created with password 'qJSoF'
+useradd: user 'A45304822004' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822004' created with password 'a1XHt'
+useradd: user 'A45304822004' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822004' created with password 'w2EW9'
+useradd: user 'A45304822001' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822001' created with password 'YicjN'
+useradd: user 'A45304822002' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822002' created with password 'AkeeE'
+useradd: user 'A45304822010' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822010' created with password 'VqkVO'
+useradd: user 'A45304822004' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822004' created with password 'GOkrl'
+useradd: user 'A45304822008' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822008' created with password 'FVI3n'
+useradd: user 'A45304822001' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822001' created with password 'CQa2O'
+useradd: user 'A45304822001' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822001' created with password '1R5Wz'
+useradd: user 'A45304822003' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822003' created with password 'PiW85'
+useradd: user 'A45304822008' already exists
+BAD PASSWORD: The password is shorter than 8 characters
+User 'A45304822008' created with password '9Flm7'
+
